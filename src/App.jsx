@@ -3,13 +3,13 @@ import { motion } from "framer-motion";
 import { Heart, Music, Image as ImageIcon, MessageCircle, ImageOff } from "lucide-react";
 
 const memories = [
-  { img: "/food.jpeg", caption: "Foodie ❤️" },
-  { img: "/ice-tea.jpeg", caption: "You cheater, drinking ice tea without me" },
-  { img: "/smile.jpeg", caption: "Your smile makes my day" },
-  { img: "/mundane.jpeg", caption: "Even the mundane is fun with you" },
-  { img: "/sass.jpeg", caption: "Damn your sass sis 💅" },
-  { img: "/doc.jpeg", caption: "I beilive in you" },
-  { img: "/couple.jpeg", caption: "I know taylor swift is getting married, we will too dw" },
+  { img: "/memories/food.jpeg", caption: "Foodie ❤️" },
+  { img: "/memories/ice-tea.jpeg", caption: "You cheater, drinking ice tea without me" },
+  { img: "/memories/smile.jpeg", caption: "Your smile makes my day" },
+  { img: "/memories/mundane.jpeg", caption: "Even the mundane is fun with you" },
+  { img: "/memories/sass.jpeg", caption: "Damn your sass sis 💅" },
+  { img: "/memories/doc.jpeg", caption: "I beilive in you" },
+  { img: "/memories/couple.jpeg", caption: "I know taylor swift is getting married, we will too dw" },
 
 ];
 
